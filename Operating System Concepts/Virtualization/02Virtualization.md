@@ -7,3 +7,8 @@ Virtualization uses software that simulates hardware functionality to create a v
 This practice allows IT organizations to operate multiple operating systems, more than one virtual system and various applications on a single server. The benefits of virtualization include greater efficiencies and economies of scale.
 
 OS virtualization is the use of software to allow a piece of hardware to run multiple operating system images at the same time.  The technology got its start on mainframes decades ago, allowing administrators to avoid wasting expensive processing power.
+
+## How virtualization works
+
+Virtualization describes a technology in which an application, guest OS or data storage is abstracted away from the true underlying hardware or software.
+
